@@ -14,6 +14,6 @@ translate
 transliteration
 
 To install the 'translate' and 'transliteration', use the following commands
-pip install translate
-pip install transliteration
+>>pip install translate
+>>pip install transliteration
 
